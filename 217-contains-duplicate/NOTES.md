@@ -1,0 +1,1 @@
+We can sort and check two consecutive numbers too
