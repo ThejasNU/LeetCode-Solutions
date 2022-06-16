@@ -1,0 +1,1 @@
+Logic here is, first when some rabbit says there are n similar rabbits,I will store a[i] value as n in map, next when someother rabbit says same number of rabbits, I will decrement the a[i] count by 1, later add all the count in map and the array size to get the solution
