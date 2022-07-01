@@ -8,11 +8,9 @@ public:
         
         //need to iterate two times through the array
         for(int i=0;i<2*n;++i){
-            if(!st.empty() && nums[st.top()]<nums[i%n]){
-                while(!st.empty() && nums[st.top()]<nums[i%n]){
-                    res[st.top()]=nums[i%n];
-                    st.pop();
-                }
+            while(!st.empty() && nums[st.top()]<nums[i%n]){
+                res[st.top()]=nums[i%n];
+                st.pop();
             }
             st.push(i%n);
         }
