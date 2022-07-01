@@ -11,7 +11,7 @@ public:
         if(open>0){
             s.push_back('(');
             generate(s,open-1,close);
-            s.pop_back(); //this is done so that it will nto affect the branching at last node in backtracking tree
+            s.pop_back(); //this is done so that it will not affect the branching at last node in backtracking tree
         }
         
         if(close>0){
