@@ -1,7 +1,7 @@
 class Solution {
 public:
     
-    //think that the whole matrix is one single array(see condition), so do binary search on it, to not use extra space, we will create virtual index and row num=virtual_index/m and col num=virtual_index%m
+    //think that the whole matrix is one single array(see condition), so do binary search on it, to not use extra space, we will create virtual index and row num=virtual_index/m and col num=virtual_index%m, where m is number of columns
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         int lo = 0;
         if(!matrix.size()) return false;
