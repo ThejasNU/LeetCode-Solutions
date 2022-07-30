@@ -1,0 +1,1 @@
+first half of nth raw is same as n-1th row and second hlaf will be ! of n-1the row
