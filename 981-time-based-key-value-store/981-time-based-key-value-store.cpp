@@ -1,23 +1,34 @@
 class TimeMap {
 
     private:
-        unordered_map<string, map<int, string>> m;
+        unordered_map<string, vector<pair<int, string>>> m;
     public:
     TimeMap() {
     }
     
     void set(string key, string value, int timestamp) {
-        m[key][timestamp]=value;
+        m[key].push_back({timestamp,value});
     }
     
     string get(string key, int timestamp) {
         if(m.find(key)==m.end()) return "";
         
-        auto it=m[key].upper_bound(timestamp);
+        if(timestamp<m[key][0].first) return "";
         
-        if(it==m[key].begin()) return "";
+        int left = 0;
+        int right = m[key].size();
         
-        return prev(it)->second;
+        while (left < right) {
+            int mid = (left + right) / 2;
+            if (m[key][mid].first <= timestamp) {
+                left = mid + 1;
+            } else {
+                right = mid;
+            }
+        }
+        
+        if(right==0) return "";
+        else return m[key][right-1].second;
     }
 };
 
