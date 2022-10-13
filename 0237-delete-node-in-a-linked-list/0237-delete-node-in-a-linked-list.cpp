@@ -11,14 +11,11 @@ public:
     void deleteNode(ListNode* node) {
         if(node==NULL) return;
         
-        ListNode* pres=node;
-        ListNode* prev;
+        ListNode* NEXT=node->next;
         
-        while(pres->next!=NULL){
-            swap(pres->val,pres->next->val);
-            prev=pres;
-            pres=pres->next;
-        }
-        prev->next=NULL;
+        node->val=NEXT->val;
+        node->next=NEXT->next;
+        
+        delete NEXT;
     }
 };
