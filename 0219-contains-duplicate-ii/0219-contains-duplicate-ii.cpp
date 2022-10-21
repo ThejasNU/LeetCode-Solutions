@@ -5,7 +5,7 @@ public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
         if(k==0 || nums.size()<2) return false;
         
-        set<int> s;
+        unordered_set<int> s;
         
         for(int i=0;i<nums.size();++i){
             if(i>k){
