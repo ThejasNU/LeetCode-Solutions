@@ -12,20 +12,30 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        stack<TreeNode*> st;
+        TreeNode* ans=helperSmallest(root,k);
+        return ans->val;
+    }
+    
+    TreeNode* helperSmallest(TreeNode* node,int &k){
+        if(node==NULL) return NULL;
         
-        while(true){
-            while(root!=NULL){
-                st.push(root);
-                root=root->left;
-            }
-            root=st.top();
-            st.pop();
-            if(--k==0) return root->val;
-            root=root->right;
-        }
+        TreeNode* left=helperSmallest(node->left,k);
+        if(left!=NULL) return left;
         
-        return 0;
+        if(--k==0) return node;
+        
+        return helperSmallest(node->right,k);
+    }
+    
+    TreeNode* helperLargest(TreeNode* node,int &k){
+        if(node==NULL) return NULL;
+        
+        TreeNode* right=helperLargest(node->right,k);
+        if(right!=NULL) return right;
+        
+        if(--k==0) return node;
+        
+        return helperLargest(node->left,k);
     }
 
 };
