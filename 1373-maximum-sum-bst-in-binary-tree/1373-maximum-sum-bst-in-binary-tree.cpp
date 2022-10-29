@@ -19,6 +19,7 @@ class nodevalue{
         this->mxsum=mxsum;
     }
 };
+
 class Solution {
 public:
     int maxSumBST(TreeNode* root) {
@@ -26,16 +27,20 @@ public:
         maxSumBSThelper(root);
         return ans >0 ? ans : 0;
     }
+    
 private:
     nodevalue maxSumBSThelper(TreeNode* root){
-        if(root==NULL)
-            return nodevalue(INT_MAX,INT_MIN,0);
+        if(root==NULL) return nodevalue(INT_MAX,INT_MIN,0);
+        
         auto left=maxSumBSThelper(root->left);
         auto right=maxSumBSThelper(root->right);
+        
+        //if it is a BST
         if(root->val>left.maxvalue && root->val<right.minvalue){
             ans = max(ans, left.mxsum + right.mxsum + root->val);
             return nodevalue(min(root->val,left.minvalue),max(root->val,right.maxvalue),left.mxsum + right.mxsum + root->val);
         }
-        return nodevalue(INT_MIN,INT_MAX,max(left.mxsum,right.mxsum));
+        
+        else return nodevalue(INT_MIN,INT_MAX,max(left.mxsum,right.mxsum));
     }
 };
