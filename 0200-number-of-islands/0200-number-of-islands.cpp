@@ -26,9 +26,7 @@ private:
         int n=grid.size();
         int m=grid[0].size();
 
-        if(i<0||j<0) return;
-        if(i>=n||j>=m) return;
-        if(grid[i][j]=='0') return;
+        if(i<0 || j<0 || i>=n || j>=m || grid[i][j]=='0') return;
 
         grid[i][j]='0';
 
