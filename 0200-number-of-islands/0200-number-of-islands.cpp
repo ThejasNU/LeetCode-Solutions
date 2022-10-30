@@ -1,5 +1,6 @@
 class Solution {
 public:
+    int count;
     
     int numIslands(vector<vector<char>>& grid) {
         count=0;
@@ -15,12 +16,8 @@ public:
                 } 
             }
         }
-        
         return count;
     }
-
-private:
-    int count;
 
     void erase(int i,int j,vector<vector<char>>& grid){
         int n=grid.size();
@@ -35,5 +32,6 @@ private:
         erase(i,j-1,grid);
         erase(i,j+1,grid);
     }
+    
 };
 
