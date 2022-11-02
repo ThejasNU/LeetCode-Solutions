@@ -10,7 +10,7 @@ public:
         while (!queue.empty()) {
             int nodesInQueue = queue.size();
             
-            for (int j = 0; j < nodesInQueue; j++) {
+            for (int j = 0; j < nodesInQueue; ++j) {
                 string curStr = queue.front();
                 queue.pop();
 
@@ -19,7 +19,7 @@ public:
                 }
                 
                 for (char c: "ACGT") {
-                    for (int i = 0; i < 8; i++) {
+                    for (int i = 0; i < 8; ++i) {
                         string neighbor = curStr;
                         neighbor[i] = c;
                         if (!seen.count(neighbor) && find(bank.begin(), bank.end(), neighbor) != bank.end()) {
