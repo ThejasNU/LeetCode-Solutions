@@ -1,0 +1,1 @@
+Find all nodes connected to root and find min path in this component
