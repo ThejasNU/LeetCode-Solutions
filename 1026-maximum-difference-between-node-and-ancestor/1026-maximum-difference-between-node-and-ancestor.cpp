@@ -19,10 +19,7 @@ public:
     
     void helper(TreeNode* node,int curMin,int curMax,int &ans){
         if(node==NULL) return;
-        
-        // int curDif= max(abs(curMax-node->val),abs(curMin-node->val));
-        // ans=max(ans,curDif);
-        
+
         curMax=max(curMax,node->val);
         curMin=min(curMin,node->val);
         
