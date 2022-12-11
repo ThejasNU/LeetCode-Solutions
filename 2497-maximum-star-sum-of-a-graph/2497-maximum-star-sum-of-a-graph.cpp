@@ -25,7 +25,6 @@ public:
                 curSum+=cur;
                 ans=max(ans,curSum);
             }
-            ans=max(ans,curSum);
             
         }
         
