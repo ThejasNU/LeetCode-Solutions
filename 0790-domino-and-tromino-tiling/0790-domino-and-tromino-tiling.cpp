@@ -9,6 +9,7 @@ public:
         dp[3]=5;
         
         for(int i=4;i<=n;++i){
+            //apply mod rules
             dp[i]= ((2*(dp[i-1]%M)%M)+(dp[i-3]%M))%M;
         }
         
