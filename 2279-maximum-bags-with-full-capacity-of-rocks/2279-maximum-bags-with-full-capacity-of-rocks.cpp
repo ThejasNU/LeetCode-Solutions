@@ -10,14 +10,9 @@ public:
         
         int count=0;
         for(int i=0;i<n;++i){
-            if(capacity[i]==0){
-                count++;
-                continue;
-            }
             if(capacity[i]>additionalRocks) break;
             
             additionalRocks-=capacity[i];
-            capacity[i]=0;
             count++;
         }
         
