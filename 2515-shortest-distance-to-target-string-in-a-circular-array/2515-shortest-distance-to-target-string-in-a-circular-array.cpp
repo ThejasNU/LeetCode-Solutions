@@ -6,6 +6,7 @@ public:
         int ans=INT_MAX;
         for(int i=0;i<n;++i){
             if(words[i]==target){
+                //abs(s-i) is distance in one direction, n-abs(s-i) is distance in reverse direction
                 ans=min(ans,min(abs(startIndex-i),n-abs(startIndex-i)));
             }
         }
