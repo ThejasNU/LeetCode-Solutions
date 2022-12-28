@@ -8,7 +8,7 @@ public:
         queue<pair<string,int>>q;
         q.push({beginWord,1});
         s.erase(beginWord);
-        string temp;
+
         while(!q.empty()){
             auto it=q.front();
             string cur=it.first;
