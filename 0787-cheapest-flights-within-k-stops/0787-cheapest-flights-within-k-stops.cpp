@@ -25,6 +25,7 @@ public:
                 int neigh=edge.first;
                 int wt=edge.second;
                 
+                //stops can be equal to k as well coz level k node can also update the weight
                 if(cost+wt<dis[neigh] && stops<=k){
                     dis[neigh]=cost+wt;
                     q.push({stops+1,{neigh,dis[neigh]}});
