@@ -36,16 +36,16 @@ public:
     	    matrix=temp;
 	    }
         
-        vector<int> count(n,0);
         int minn=INT_MAX,mini=-1;
         for(int i=0;i<n;++i){
+            int count=0;
             for(int j=0;j<n;++j){
                 if(i==j) continue;
                 
-                if(matrix[i][j]!=-1 && matrix[i][j]<=distanceThreshold) count[i]++;
+                if(matrix[i][j]!=-1 && matrix[i][j]<=distanceThreshold) count++;
             }
-            if(count[i]<=minn){
-                minn=count[i];
+            if(count<=minn){
+                minn=count;
                 mini=i;
             }
         }
