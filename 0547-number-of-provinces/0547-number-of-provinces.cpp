@@ -1,27 +1,57 @@
+class DisjointSet {
+public:
+    vector<int> rank, parent;
+    
+    DisjointSet(int n) {
+        rank.resize(n, 0);
+        parent.resize(n);
+        for(int i = 0;i<n;i++) {
+            parent[i] = i;
+        }
+    }
+
+    int find(int node) {
+        if(node == parent[node]) return node;
+
+        return parent[node] = find(parent[node]);
+    }
+
+    void unionBR(int u, int v) {
+        int ulp_u = find(u);
+        int ulp_v = find(v);
+        if(ulp_u == ulp_v) return;
+        if(rank[ulp_u] < rank[ulp_v]) {
+            parent[ulp_u] = ulp_v;
+        }
+        else if(rank[ulp_v] < rank[ulp_u]) {
+            parent[ulp_v] = ulp_u;
+        }
+        else {
+            parent[ulp_v] = ulp_u;
+            rank[ulp_u]++;
+        }
+    }
+};
+
+
 class Solution {
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n=isConnected.size();
-        int count=0;
-        vector<int> visited(n,0);
+        DisjointSet ds(n);
+        
         for(int i=0;i<n;++i){
-            if(!visited[i]){
-                count++;
-                dfs(i,visited,isConnected);
+            for(int j=0;j<n;++j){
+                if(isConnected[i][j]) ds.unionBR(i,j);
             }
         }
+        
+        int count=0;
+        for(int i=0;i<n;++i){
+            if(ds.parent[i]==i) count++;
+        }
+        
         return count;
     }
-private:
-    void dfs(int v,vector<int>& visited,vector<vector<int>>& isConnected){
-        visited[v]=1;
-        
-        for(int i=0;i<isConnected[v].size();++i){
-            if(isConnected[v][i]){
-                if(i==v || visited[i]) continue;
-            
-                dfs(i,visited,isConnected);
-            }   
-        }
-    }
+
 };
