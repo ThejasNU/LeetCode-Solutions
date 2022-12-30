@@ -12,14 +12,12 @@ public:
         temp.push_back(node);
         if(node==graph.size()-1){
             ans.push_back(temp);
-            temp.pop_back();
-            return;
         }
-        
-        for(int neigh:graph[node]){
-            dfs(neigh,graph,ans,temp);
+        else{
+            for(int neigh:graph[node]){
+                dfs(neigh,graph,ans,temp);
+            }
         }
-        
         temp.pop_back();
     }
 };
