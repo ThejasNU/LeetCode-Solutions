@@ -39,7 +39,7 @@ public:
         
         //searching for duplicate values with different encoding
         for(int k=0;k<contents.size();++k){
-            if(count(contents.begin(),contents.end(),contents[k])>1) return false;
+            if(count(contents.begin()+k,contents.end(),contents[k])>1) return false;
         }
         
         return true;
