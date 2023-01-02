@@ -84,7 +84,7 @@ public:
             }
         }
         
-        //if all components are connected
+        //if all cells are 1s
         maxi=max(maxi,ds.size[ds.find(0)]);
         return maxi;
     }
