@@ -38,7 +38,7 @@ public:
                 if(low[it]>tin[node]) bridges.push_back({node,it});
             }
             else{
-                low[node]=min(low[node],low[it]);
+                low[node]=min(low[node],tin[it]);
             }
         }
     }
