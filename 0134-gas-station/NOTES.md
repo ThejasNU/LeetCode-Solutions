@@ -1,0 +1,3 @@
+- Whenever the sum is negative, reset it and let the car start from next point.
+- In the mean time, add up all of the left gas to total. If it's negative finally, return -1 since it's impossible to finish.
+- If it's non-negative, return the last point saved in res;
