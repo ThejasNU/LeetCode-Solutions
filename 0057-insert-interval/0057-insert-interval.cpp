@@ -3,8 +3,8 @@ public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
         int n=intervals.size();
         
+        //finding the index to insert using binary search
         int ind=upper_bound(intervals.begin(),intervals.end(),newInterval)-intervals.begin();
-        
         if(ind<n){
             intervals.insert(intervals.begin()+ind,newInterval);   
         }
