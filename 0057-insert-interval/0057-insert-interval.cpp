@@ -2,10 +2,15 @@ class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
         int n=intervals.size();
-        int ind=0;
-        while(ind<n && intervals[ind][0]<newInterval[0]) ind++;
         
-        intervals.insert(intervals.begin()+ind,newInterval);
+        int ind=upper_bound(intervals.begin(),intervals.end(),newInterval)-intervals.begin();
+        
+        if(ind<n){
+            intervals.insert(intervals.begin()+ind,newInterval);   
+        }
+        else{
+            intervals.push_back(newInterval);
+        }
         
         vector<vector<int>> ans;
         vector<int> temp=intervals[0];
