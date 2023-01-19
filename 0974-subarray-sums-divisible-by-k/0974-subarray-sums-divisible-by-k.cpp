@@ -1,7 +1,6 @@
 class Solution {
 public:
     int subarraysDivByK(vector<int>& nums, int k) {
-        int n=nums.size();
         int prefixMod=0,ans=0;
         
         vector<int> modGroups(k,0);
