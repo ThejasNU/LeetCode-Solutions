@@ -27,6 +27,7 @@ public:
         while(low<high){
             if(s[low++]!=s[high--]) return false;
         }
+        
         return true;
     }
 };
