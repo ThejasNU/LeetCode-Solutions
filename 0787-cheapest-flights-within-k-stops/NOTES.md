@@ -1,1 +1,1 @@
-Here 1st priority should be given to stops and not the distance
+​
