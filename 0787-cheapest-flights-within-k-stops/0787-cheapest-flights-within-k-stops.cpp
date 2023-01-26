@@ -32,7 +32,6 @@ public:
                 }
             }
         }
-        
         return (dis[dst]==INT_MAX?-1:dis[dst]);
     }
 };
