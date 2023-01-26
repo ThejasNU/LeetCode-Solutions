@@ -4,7 +4,25 @@ using namespace std;
 
 
 // } Driver Code Ends
+
 class Solution {
+  public:
+    int minimumEnergy(vector<int>& height, int n) {
+        int prev1=0,prev2=0;
+        
+        for(int i=1;i<n;++i){
+            int step1=prev1+abs(height[i]-height[i-1]);
+            int step2=INT_MAX;
+            if(i>1) step2=prev2+abs(height[i]-height[i-2]);
+            prev2=prev1;
+            prev1=min(step1,step2);
+        }
+        
+        return prev1;
+    }
+};
+
+class tabulationSolution {
   public:
     int minimumEnergy(vector<int>& height, int n) {
         vector<int> dp(n);
