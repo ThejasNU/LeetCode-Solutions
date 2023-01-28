@@ -2,9 +2,6 @@ class SummaryRanges {
 private:
     set<int> nums;
 public:
-    
-    SummaryRanges() {}
-    
     void addNum(int value) {
         nums.insert(value);
     }
