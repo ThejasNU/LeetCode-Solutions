@@ -8,7 +8,6 @@ public:
             slow=getNext(slow);
             fast=getNext(getNext(fast));
         }
-        
         return fast==1;
     }
     
