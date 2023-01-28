@@ -1,9 +1,40 @@
 class SummaryRanges {
 private:
-    vector<vector<int>> intervals;
+    set<int> nums;
 public:
+    
     SummaryRanges() {}
     
+    void addNum(int value) {
+        nums.insert(value);
+    }
+    
+    vector<vector<int>> getIntervals() {
+        vector<vector<int>> intervals;
+        int left=-1,right=-1;
+        if(nums.size()>0){
+            for(int num:nums){
+                if(left<0){
+                    left=right=num;
+                }
+                else if(num==right+1){
+                    right=num;
+                }
+                else{
+                    intervals.push_back({left,right});
+                    left=right=num;
+                }
+            }
+            intervals.push_back({left,right});
+        }
+        return intervals;
+    }
+};
+
+class mergeIntervalsSolution {
+private:
+    vector<vector<int>> intervals;
+public:
     void addNum(int value) {
        intervals.push_back({value,value});
     }
