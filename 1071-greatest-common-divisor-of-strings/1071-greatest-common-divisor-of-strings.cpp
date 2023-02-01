@@ -9,7 +9,6 @@ public:
     }
 };
 
-
 class bruteForceSolution {
 public:
     string gcdOfStrings(string str1, string str2) {
