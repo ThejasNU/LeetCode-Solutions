@@ -6,7 +6,6 @@ public:
         if(n1<n2) return indexes;
         
         vector<int> count1(26,0),count2(26,0);
-        
         for(int i=0;i<n2;++i){
             count1[s[i]-'a']++;
             count2[p[i]-'a']++;
