@@ -4,7 +4,24 @@ using namespace std;
 
 
 // } Driver Code Ends
+
 class Solution {
+  public:
+    
+    int minimizeCost(vector<int>& height, int n, int k) {
+        vector<int> dp(n,INT_MAX);
+        dp[n-1]=0;
+        for(int i=n-2;i>=0;--i){
+            for(int j=1;j<=k;++j){
+                if(i+j<n) dp[i]=min(dp[i],dp[i+j]+abs(height[i]-height[i+j]));   
+            }
+        }
+        return dp[0];
+    }
+};
+
+
+class topDownSolution {
   public:
     vector<int> dp;
     int minimizeCost(vector<int>& height, int n, int k) {
