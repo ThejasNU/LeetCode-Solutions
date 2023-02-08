@@ -8,9 +8,25 @@ using namespace std;
 //User function template for C++
 class Solution{
 public:
-    
 	int findMaxSum(int *arr, int n) {
-	    vector<int> dp(n,-1);
+        int prev=arr[0];
+        int prev2=0;
+        
+        for(int i=1;i<n;++i){
+            int notTake=prev;
+            int take=arr[i]+prev2;
+            int cur=max(take,notTake);
+            prev2=prev;
+            prev=cur;
+        }
+        return prev;
+	}
+};
+
+class tabulationSolution{
+public:
+	int findMaxSum(int *arr, int n) {
+	    vector<int> dp(n);
         dp[0]=arr[0];
         
         for(int i=1;i<n;++i){
