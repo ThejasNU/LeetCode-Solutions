@@ -8,6 +8,22 @@ using namespace std;
 //User function template for C++
 class Solution{
 public:
+    
+	int findMaxSum(int *arr, int n) {
+	    vector<int> dp(n,-1);
+        dp[0]=arr[0];
+        
+        for(int i=1;i<n;++i){
+            int notTake=dp[i-1];
+            int take=arr[i]+(i>1?dp[i-2]:0);
+            dp[i]=max(take,notTake);
+        }
+        return dp[n-1];
+	}
+};
+
+class topDownSolution{
+public:
     vector<int> dp;
 	int findMaxSum(int *arr, int n) {
 	   dp.resize(n,-1);
