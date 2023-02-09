@@ -24,7 +24,7 @@ class Solution
 
 class tabulationSolution{
 public:
-	int findMaxSum(int *arr, int n) {
+	int FindMaxSum(int *arr, int n) {
 	    vector<int> dp(n);
         dp[0]=arr[0];
         
@@ -40,7 +40,7 @@ public:
 class topDownSolution{
 public:
     vector<int> dp;
-	int findMaxSum(int *arr, int n) {
+	int FindMaxSum(int *arr, int n) {
 	   dp.resize(n,-1);
 	   return helper(arr,n,0);
 	}
