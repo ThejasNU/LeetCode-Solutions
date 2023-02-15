@@ -1,8 +1,7 @@
 class Solution {
 public:
     vector<int> addToArrayForm(vector<int>& num, int k) {
-        int n=num.size();
-        int i=n-1;
+        int i=num.size()-1;
         while(i>=0 && k>0){
             num[i]+=k;
             k=num[i]/10;
