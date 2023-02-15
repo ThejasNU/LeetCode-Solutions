@@ -12,7 +12,6 @@ public:
             num.insert(num.begin(),k%10);
             k/=10;
         }
-        
         return num;
     }
 };
