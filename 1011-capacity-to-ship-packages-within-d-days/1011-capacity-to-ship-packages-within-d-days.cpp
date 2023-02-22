@@ -8,7 +8,6 @@ public:
         }
 
         int l = maxLoad, r = totalLoad;
-
         while (l < r) {
             int mid = (l + r) / 2;
             if (feasible(weights, mid, days)) {
