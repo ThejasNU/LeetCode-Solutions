@@ -9,7 +9,27 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
+public:
+    vector<TreeNode*> findDuplicateSubtrees(TreeNode* root) {
+        unordered_map<string, int> cnt;
+        vector<TreeNode*> res;
+        traverse(root,cnt,res);
+        return res;
+    }
+    
+    string traverse(TreeNode* node,unordered_map<string, int> &cnt,vector<TreeNode*> &res){
+        if (node == nullptr) return "";
+        
+        string representation = "(" + traverse(node->left,cnt,res) + ")" + to_string(node->val) + "(" +traverse(node->right,cnt,res) + ")";
+        cnt[representation]++;
+        if (cnt[representation] == 2) res.push_back(node);
+        return representation;
+    }
+};
+
+class optimalSolution {
 public:
     vector<TreeNode*> findDuplicateSubtrees(TreeNode* root) {
         unordered_map<string, int> tripletToID;
