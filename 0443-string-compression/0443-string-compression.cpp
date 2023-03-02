@@ -23,7 +23,6 @@ public:
     }
 };
 
-
 class noobSolution {
 public:
     int compress(vector<char>& chars) {
