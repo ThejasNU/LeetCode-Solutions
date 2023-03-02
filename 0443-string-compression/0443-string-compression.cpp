@@ -34,19 +34,15 @@ public:
                 chars.erase(it);
                 ++count;
             }
-            
             if(count>1){
                 string s=to_string(count);
                 for(char c:s){
                     chars.insert(it,c);
                     it++;
                 }
-            }
-            
+            }            
             if(it!=chars.end()) it++;
         }
-        
         return chars.size();
     }
-    
 };
