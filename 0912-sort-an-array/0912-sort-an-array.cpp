@@ -1,4 +1,58 @@
-class Solution {
+class Solution{
+public:
+    vector<int> sortArray(vector<int> &nums){
+        radixSort(nums);
+        return nums;
+    }
+    
+    void radixSort(vector<int> &nums){
+        int maxElement = nums[0];
+        for (int num : nums) {
+            maxElement = max(abs(num), maxElement);
+        }
+        int maxDigits=0;
+        while(maxElement>0){
+            ++maxDigits;
+            maxElement/=10;
+        }
+        
+        int placeValue=1;
+        for(int digit=0;digit<maxDigits;++digit){
+            bucketSort(nums,placeValue);
+            placeValue*=10;
+        }
+        
+        vector<int> negatives,positives;
+        for(int num:nums){
+            if(num<0) negatives.push_back(num);
+            else positives.push_back(num);
+        }
+        
+        reverse(negatives.begin(),negatives.end());
+        merge(negatives.begin(), negatives.end(), positives.begin(), positives.end(), nums.begin());
+    }
+    
+    void bucketSort(vector<int> &nums,int placeValue){
+        vector<vector<int>> buckets(10,vector<int>());
+        
+        for(int num:nums){
+            int digit=abs(num)/placeValue;
+            digit=digit%10;
+            buckets[digit].push_back(num);
+        }
+        
+        int i=0;
+        for(int digit=0;digit<10;++digit){
+            for(int val:buckets[digit]){
+                nums[i]=val;
+                ++i;
+            }
+        }
+    }
+};
+
+
+class mergeSortSolution {
 public:
     vector<int> sortArray(vector<int>& nums) {
         mergeSort(nums, 0, nums.size() - 1);
