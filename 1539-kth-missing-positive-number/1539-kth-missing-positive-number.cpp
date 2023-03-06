@@ -13,9 +13,9 @@ public:
             k-=dif;
             ++i;
         }
-        
+        //if the number is missing after end of the array
         if(k>0) return arr[n-1]+k;
-        
+        //if the number is missing from front of the array
         return k1;
     }
 };
