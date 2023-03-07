@@ -6,7 +6,6 @@ public:
         
         while(l<r){
             long long mid=(l+r)/2;
-            
             long long trips=computeTotalTrips(time,mid);
             if(trips<totalTrips) l=mid+1;
             //because we might find a time lesser than the mid
