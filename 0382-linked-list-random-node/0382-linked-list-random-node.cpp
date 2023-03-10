@@ -13,6 +13,7 @@ class Solution {
 public:
     ListNode* root;
     int size;
+    
     Solution(ListNode* head) {
         root=head;
         size=0;
@@ -23,7 +24,7 @@ public:
     }
     
     int getRandom() {
-        int num = (rand() %(size)) ;
+        int num = (rand()%size) ;
         ListNode* cur=root;
         int count=0;
         while(count<num){
