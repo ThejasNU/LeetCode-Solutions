@@ -12,12 +12,11 @@ public:
         ++curInd;
         if(history.size()-1<curInd){
             history.push_back(url);
-            maxInd=curInd;
         }
         else{
             history[curInd]=url;
-            maxInd=curInd;
         }
+        maxInd=curInd;
     }
     
     string back(int steps) {
