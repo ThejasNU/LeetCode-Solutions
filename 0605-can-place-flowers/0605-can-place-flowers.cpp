@@ -10,7 +10,6 @@ public:
             
             bool emptyLeftPlot=(i==0)||(flowerbed[i-1]==0);
             bool emptyRightPlot=(i==flowerbed.size()-1)||(flowerbed[i+1]==0);
-            
             if(emptyLeftPlot && emptyRightPlot){
                 flowerbed[i]=1;
                 --n;
