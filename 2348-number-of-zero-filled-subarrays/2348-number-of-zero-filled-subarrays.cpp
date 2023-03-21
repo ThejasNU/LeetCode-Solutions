@@ -3,7 +3,6 @@ public:
     long long zeroFilledSubarray(vector<int>& nums) {
         int n=nums.size();
         long long ans=0;
-        
         int i=0;
         while(i<n){
             if(nums[i]==0){
