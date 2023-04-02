@@ -4,6 +4,28 @@ public:
         sort(potions.begin(),potions.end());
         int n=spells.size();
         int m=potions.size();
+        int maxPotion=potions[m-1];
+        vector<int> ans(n);
+        for(int i=0;i<n;++i){
+            long long minRequired=ceil((1.0*success)/spells[i]);
+            if(minRequired>maxPotion){
+                ans[i]=0;
+                continue;
+            }
+            auto index=lower_bound(potions.begin(),potions.end(),minRequired) - potions.begin();
+            ans[i]=m-index;
+        }
+        return ans;
+    }
+};
+
+
+class altSolution {
+public:
+    vector<int> successfulPairs(vector<int>& spells, vector<int>& potions, long long success) {
+        sort(potions.begin(),potions.end());
+        int n=spells.size();
+        int m=potions.size();
         vector<int> ans(n);
         for(int i=0;i<n;++i){
             int l=0;
