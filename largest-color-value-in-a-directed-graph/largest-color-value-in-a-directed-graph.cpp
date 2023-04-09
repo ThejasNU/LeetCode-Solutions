@@ -6,11 +6,11 @@ public:
         vector<int> indegree(n);
         for (auto& edge : edges) {
             adj[edge[0]].push_back(edge[1]);
-            indegree[edge[1]]++;
+            ++indegree[edge[1]];
         }
         vector<vector<int>> count(n, vector<int>(26));
         queue<int> q;
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; ++i) {
             if (indegree[i] == 0) {
                 q.push(i);
             }
@@ -21,13 +21,13 @@ public:
             int node = q.front();
             q.pop();
             answer = max(answer, ++count[node][colors[node] - 'a']);
-            nodesSeen++;
+            ++nodesSeen;
 
             for (auto& neighbor : adj[node]) {
-                for (int i = 0; i < 26; i++) {
+                for (int i = 0; i < 26; ++i) {
                     count[neighbor][i] = max(count[neighbor][i], count[node][i]);
                 }
-                indegree[neighbor]--;
+                --indegree[neighbor];
                 if (indegree[neighbor] == 0) {
                     q.push(neighbor);
                 }
