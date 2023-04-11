@@ -1,4 +1,4 @@
-class p2Solution {
+class Solution {
 public:
     string removeStars(string s) {
         int j=0;
@@ -11,7 +11,7 @@ public:
     }
 };
 
-class Solution {
+class stackSolution {
 public:
     string removeStars(string s) {
         stack<char> st;
