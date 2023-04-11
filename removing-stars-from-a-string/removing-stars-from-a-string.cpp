@@ -1,4 +1,4 @@
-class Solution {
+class p2Solution {
 public:
     string removeStars(string s) {
         int j=0;
@@ -8,6 +8,25 @@ public:
             else s[j++]=s[i];
         }
         return s.substr(0,j);
+    }
+};
+
+class Solution {
+public:
+    string removeStars(string s) {
+        stack<char> st;
+        int n=s.size();
+        for(int i=0;i<n;++i){
+            if(s[i]=='*') st.pop();
+            else st.push(s[i]);
+        }
+        string ans = "";
+        while (!st.empty()) {
+            ans.push_back(st.top());
+            st.pop();
+        }
+        reverse(ans.begin(),ans.end());
+        return ans;
     }
 };
 
