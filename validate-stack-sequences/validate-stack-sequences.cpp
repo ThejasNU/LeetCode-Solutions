@@ -1,10 +1,10 @@
-class anotherSolution {
+class Solution {
 public:
     bool validateStackSequences(vector<int>& pushed, vector<int>& popped) {
         int i=0,j=0;
         int n=pushed.size();
         stack<int> st;
-        while(i<n && j<n){
+        while(i<n){
             while(i<n){
                 st.push(pushed[i]);
                 ++i;
@@ -19,7 +19,7 @@ public:
     }
 };
 
-class Solution {
+class anotherSolution {
 public:
     bool validateStackSequences(vector<int>& pushed, vector<int>& popped) {
         int i=0,j=0;
