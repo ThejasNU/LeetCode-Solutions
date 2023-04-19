@@ -16,6 +16,7 @@ public:
         ans=0;
         helper(root,false);
         helper(root,true);
+        //it counts the nodes, so -- to get edges
         return ans-1;
     }
 
