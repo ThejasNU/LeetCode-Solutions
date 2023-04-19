@@ -24,14 +24,19 @@ public:
         if(node==NULL) return 0;
         int c1,c2;
         if(goRight){
+            //path continued from parent
             c1=1+helper(node->right,false);
+            //path which starts at this node
             c2=1+helper(node->left,true);
         }
         else{
+            //path continued from parent
             c1=1+helper(node->left,true);
+            //path which starts at this node
             c2=1+helper(node->right,false);
         }
         ans=max(ans,max(c1,c2));
+        //returning only the value what parent requires, not the path which starts from this node
         return c1;
     }
 };
