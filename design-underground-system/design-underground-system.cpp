@@ -15,6 +15,7 @@ public:
         string res=""+cIn[id].first+"->"+stationName;
         timeDif[res].first+=t-cIn[id].second;
         timeDif[res].second+=1;
+        cIn.erase(id);
     }
     
     double getAverageTime(string startStation, string endStation) {
