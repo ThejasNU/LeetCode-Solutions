@@ -8,7 +8,7 @@ public:
         for(int i=0;i<n;++i){
             for(int j=0;j<i;++j){
                 diff=nums[i]-nums[j];
-                if(dp[j].find(diff)!=dp[j].end()){
+                if(dp[j].count(diff)){
                     dp[i][diff]=dp[j][diff]+1;
                 }
                 else{
