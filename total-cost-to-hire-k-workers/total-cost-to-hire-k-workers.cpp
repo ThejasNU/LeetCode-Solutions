@@ -9,12 +9,14 @@ public:
             pq.push({costs[l],l});
             ++l;
         }
+        //undo the extra increment
         --l;
         while(l<r && candidates){
             pq.push({costs[r],r});
             --r;
             --candidates;
         }
+        //undo the extra decrement
         ++r;
 
         while(k--){
@@ -23,6 +25,7 @@ public:
             pq.pop();
             if(idx<=l){
                 ++l;
+                //check if it is already there in pq
                 if(l<r) pq.push({costs[l],l});
             }
             else{
