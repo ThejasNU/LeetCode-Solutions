@@ -18,6 +18,7 @@ public:
                 cur>>=1;
                 --idx;
             }
+
             if(count(transfers,transfers+n,0)==n) ans=numSetBits;
         }
         return ans;
