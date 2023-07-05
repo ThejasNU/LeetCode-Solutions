@@ -1,5 +1,25 @@
 class Solution {
 public:
+    int longestSubarray(vector<int>& nums) {
+        int ans=0;
+        int zeroCount=0;
+        int start=0;
+        for(int i=0;i<nums.size();++i){
+            if(nums[i]==0) zeroCount+=1;
+
+            while(zeroCount>1){
+                zeroCount-=(nums[start]==0);
+                start+=1;
+            }
+
+            ans=max(ans,i-start);
+        }
+        return ans;
+    }
+};
+
+class dpSolution {
+public:
     int ans;
     int dp[100001][2];
     int longestSubarray(vector<int>& nums) {
