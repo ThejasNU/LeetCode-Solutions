@@ -6,12 +6,10 @@ public:
         int start=0;
         for(int i=0;i<nums.size();++i){
             if(nums[i]==0) zeroCount+=1;
-
             while(zeroCount>1){
                 zeroCount-=(nums[start]==0);
                 start+=1;
             }
-
             ans=max(ans,i-start);
         }
         return ans;
