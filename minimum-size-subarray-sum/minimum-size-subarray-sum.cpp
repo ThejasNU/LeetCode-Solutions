@@ -1,4 +1,24 @@
-class Solution {
+class Solution{
+public:
+    int minSubArrayLen(int target,vector<int>& nums){
+        int ans=INT_MAX;
+        int sum=0;
+        int start=0;
+
+        for(int end=0;end<nums.size();++end){
+            sum+=nums[end];
+            while(sum>=target){
+                ans=min(ans,end-start+1);
+                sum-=nums[start];
+                ++start;
+            }
+        }
+        return ans==INT_MAX?0:ans;
+    }
+};
+
+
+class binarySearchSolution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
         if(accumulate(nums.begin(),nums.end(),0)<target) return 0;
