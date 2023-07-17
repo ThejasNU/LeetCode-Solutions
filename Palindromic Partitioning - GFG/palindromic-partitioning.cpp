@@ -11,6 +11,33 @@ class Solution{
 public:
     int palindromicPartition(string str){
         int n=str.size();
+        vector<int> dp(n+1,-1);
+        dp[n]=0;
+        
+        for(int i=n-1;i>=0;--i){
+            int ans=INT_MAX;
+            for(int j=i;j<n;++j){
+                if(isPalindrome(str,i,j)){
+                    ans=min(ans,1+dp[j+1]);
+                }
+            }
+            dp[i]=ans;
+        }
+        return dp[0]-1;
+    }
+    
+    bool isPalindrome(const string& str,int low,int high){
+        while(low<high){
+            if(str[low++]!=str[high--]) return false;
+        }
+        return true;
+    }
+};
+
+class topDownSolution{
+public:
+    int palindromicPartition(string str){
+        int n=str.size();
         vector<int> dp(n,-1);
         //since it does extra partition after reaching the end we have to ignore that
         return helper(0,str,dp)-1;
