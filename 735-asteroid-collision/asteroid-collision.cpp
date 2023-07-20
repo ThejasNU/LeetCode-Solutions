@@ -4,23 +4,21 @@ public:
         stack<int> st;
         for(int ast:asteroids){
             if(!st.empty()){
+                bool flag=true;
                 if(ast<0){
-                    bool flag=true;
                     while(!st.empty() && st.top()>0){
-                        if(abs(ast)<st.top()){
-                            flag=false;
-                            break;
+                        if(abs(ast)>st.top()){
+                            st.pop();
+                            continue;
                         }
                         else if(abs(ast)==st.top()){
-                            flag=false;
                             st.pop();
-                            break;
                         }
-                        else st.pop();
+                        flag=false;
+                        break;
                     }
-                    if(flag) st.push(ast);
                 }
-                else st.push(ast);
+                if(flag) st.push(ast);
             }
             else{
                 st.push(ast);
