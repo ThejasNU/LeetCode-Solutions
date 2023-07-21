@@ -13,9 +13,9 @@ public:
                     helper(i);
                     if(length[i]+1>length[idx]){
                         length[idx]=length[i]+1;
-                        count[idx]=0;
+                        count[idx]=count[i];
                     }
-                    if(length[i]+1==length[idx]){
+                    else if(length[i]+1==length[idx]){
                         count[idx]+=count[i];
                     }
                 }
