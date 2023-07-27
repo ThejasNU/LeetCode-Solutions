@@ -2,6 +2,26 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int n=s.size();
+        unordered_map<char,int> lastIdx;
+        int maxLen=0;
+        int l=0,r=0;
+        while(r<n){
+            if(lastIdx.find(s[r])!=lastIdx.end()){
+                //if we have already crossed the last occurance of a character, we don't need to go back again
+                l=max(l,lastIdx[s[r]]+1);
+            }
+            lastIdx[s[r]]=r;
+            maxLen=max(maxLen,r-l+1);
+            ++r;
+        }
+        return maxLen;
+    }
+};
+
+class noobSolution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        int n=s.size();
         unordered_map<char,int> counter;
         int maxLen=0;
         int curLen=0;
