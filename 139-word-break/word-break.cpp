@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool wordBreak(string s, vector<string>& wordDict) {
+    bool wordBreak(string s, vector<string>& wordDict){
         vector<int> dp(s.size(),-1);
         return helper(0,s,wordDict,dp);
     }
