@@ -31,10 +31,10 @@ public:
             return -1;
         };
 
-
         int index=binarySearch(0,l-1);
-        if(index!=-1) return index;
-
-        return binarySearch(l,n-1);
+        if(index!=-1) 
+            return index;
+        else 
+            return binarySearch(l,n-1);
     }
 };
