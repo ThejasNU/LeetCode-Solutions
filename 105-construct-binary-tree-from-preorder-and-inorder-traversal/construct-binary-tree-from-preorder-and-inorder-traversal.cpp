@@ -17,7 +17,6 @@ public:
 
     TreeNode* helper(int ps,int pe,vector<int>& preorder,int is,int ie,vector<int>& inorder){
         if(is>ie || ps>pe) return NULL;
-        if(is==ie || ps==pe) return new TreeNode(preorder[ps]);
         
         int nodeVal=preorder[ps];
         TreeNode* node=new TreeNode(nodeVal);
