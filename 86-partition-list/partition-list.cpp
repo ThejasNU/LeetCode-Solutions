@@ -13,8 +13,11 @@ public:
     ListNode* partition(ListNode* head, int x) {
         if(head==NULL || head->next==NULL) return head;
         
+        //used for insertion
         ListNode* last=new ListNode(0,head);
+        //for returning
         ListNode* newRoot=last;
+        //for iteration
         ListNode* prev=last;
         ListNode* cur=head;
 
