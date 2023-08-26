@@ -4,6 +4,28 @@ public:
         sort(pairs.begin(),pairs.end());
         
         int n=pairs.size();
+        vector<int> dp(n,1);
+        
+        int ans=1;
+        for(int i=n-2;i>=0;--i){
+            for(int j=i+1;j<n;++j){
+                if(pairs[j][0]>pairs[i][1]){
+                    dp[i]=max(dp[i],1+dp[j]);
+                }
+            }
+            ans=max(ans,dp[i]);
+        }
+        return ans;
+    }
+
+};
+
+class topDownSolution {
+public:
+    int findLongestChain(vector<vector<int>>& pairs) {
+        sort(pairs.begin(),pairs.end());
+        
+        int n=pairs.size();
         vector<int> dp(n,-1);
         dp[n-1]=1;
         
