@@ -11,6 +11,7 @@ public:
     }
 };
 
+
 class readableSolution {
 public:
     //LOGIC: num*2==num<<1 so the number of bits in ith index==i/2th index
