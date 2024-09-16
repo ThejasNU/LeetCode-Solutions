@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0539-minimum-time-difference) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
 |  |
@@ -21,9 +22,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+## Math
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0539-minimum-time-difference) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
