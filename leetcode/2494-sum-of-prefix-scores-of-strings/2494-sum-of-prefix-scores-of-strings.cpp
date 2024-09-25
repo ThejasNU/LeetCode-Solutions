@@ -1,49 +1,48 @@
-struct TrieNode {
-    TrieNode* next[26] = {};
-    int cnt = 0;
+class TrieNode{
+public:
+    int count=0;
+    TrieNode* children[26]={};
 };
 
+// MLE when extra Trie class is created
 class Solution {
-    // Initialize the root node of the trie.
+private:
     TrieNode root;
 
-public:
-    // Insert function for the word.
-    void insert(string word) {
-        auto node = &root;
-        for (char c : word) {
-            // If new prefix, create a new trie node.
-            if (!node->next[c - 'a']) {
-                node->next[c - 'a'] = new TrieNode();
+    void insert(string word){
+        auto cur=&root;
+        for(char c:word){
+            int idx=c-'a';
+            if(!cur->children[idx]){
+                cur->children[idx]=new TrieNode();
             }
-            // Increment the count of the current prefix.
-            node->next[c - 'a']->cnt++;
-            node = node->next[c - 'a'];
+            cur->children[idx]->count+=1;
+            cur=cur->children[idx];
         }
     }
-    // Calculate the prefix count using this function.
-    int count(string s) {
-        auto node = &root;
-        int ans = 0;
-        // The ans would store the total sum of counts.
-        for (char c : s) {
-            ans += node->next[c - 'a']->cnt;
-            node = node->next[c - 'a'];
+
+    int find(string word){
+        auto cur=&root;
+        int ans=0;
+        for(char c:word){
+            int idx=c-'a';
+            ans+=cur->children[idx]->count;
+            cur=cur->children[idx];
         }
         return ans;
     }
 
+public:
     vector<int> sumPrefixScores(vector<string>& words) {
-        int N = words.size();
-        // Insert words in trie.
-        for (int i = 0; i < N; i++) {
+        int n=words.size();
+        for(int i=0;i<n;++i){
             insert(words[i]);
         }
-        vector<int> scores(N, 0);
-        for (int i = 0; i < N; i++) {
-            // Get the count of all prefixes of given string.
-            scores[i] = count(words[i]);
+
+        vector<int> ans(n);
+        for(int i=0;i<n;++i){
+            ans[i]=find(words[i]);
         }
-        return scores;
+        return ans;
     }
 };
