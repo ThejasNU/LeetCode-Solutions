@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0729-my-calendar-i) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2755-extra-characters-in-a-string) |
@@ -85,4 +86,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3329-find-the-length-of-the-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0729-my-calendar-i) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
