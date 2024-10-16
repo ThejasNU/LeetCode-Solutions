@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1923-sentence-similarity-iii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2616-maximal-score-after-applying-k-operations) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2616-maximal-score-after-applying-k-operations) |
