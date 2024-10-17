@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0670-maximum-swap) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0179-largest-number) |
+| [0670-maximum-swap](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
