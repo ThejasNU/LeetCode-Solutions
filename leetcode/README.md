@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2494-sum-of-prefix-scores-of-strings) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0731-my-calendar-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2586-longest-square-streak-in-an-array) |
 ## Design
 |  |
