@@ -1,0 +1,2 @@
+            pq.push(arr[i]);
+
