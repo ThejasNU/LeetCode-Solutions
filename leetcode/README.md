@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3522-find-the-power-of-k-size-subarrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0567-permutation-in-string) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3522-find-the-power-of-k-size-subarrays-i) |
 ## Simulation
 |  |
 | ------- |
