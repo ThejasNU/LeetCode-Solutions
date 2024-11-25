@@ -1,0 +1,2 @@
+        for(int num:arr){
+
