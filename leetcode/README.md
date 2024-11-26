@@ -293,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2343-count-unguarded-cells-in-the-grid) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
