@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1304-longest-happy-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2616-maximal-score-after-applying-k-operations) |
 ## Backtracking
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2646-kth-largest-sum-in-a-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
@@ -295,9 +298,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
