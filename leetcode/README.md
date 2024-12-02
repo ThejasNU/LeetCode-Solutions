@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1923-sentence-similarity-iii) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1972-rotating-the-box) |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2201-valid-arrangement-of-pairs) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
