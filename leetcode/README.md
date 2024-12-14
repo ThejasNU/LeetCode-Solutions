@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2755-extra-characters-in-a-string) |
+| [2868-continuous-subarrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2868-continuous-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0859-design-circular-deque) |
+| [2868-continuous-subarrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2868-continuous-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3522-find-the-power-of-k-size-subarrays-i) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2868-continuous-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -368,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
