@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0670-maximum-swap) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
 | ------- |
