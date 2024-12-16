@@ -13,14 +13,8 @@ public:
             auto [num, idx] = pq.top();
             pq.pop();
 
-            pq.push({num * multiplier, idx});
-        }
-
-        while (!pq.empty()) {
-            auto [num, idx] = pq.top();
-            pq.pop();
-
-            nums[idx] = num;
+            nums[idx]*=multiplier;
+            pq.push({nums[idx], idx});
         }
 
         return nums;
