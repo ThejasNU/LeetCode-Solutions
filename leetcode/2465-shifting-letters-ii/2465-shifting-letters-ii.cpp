@@ -20,8 +20,8 @@ public:
         int numShift = 0;
         for (int i = 0; i < s.size(); ++i) {
             numShift = (numShift + dif[i]) % 26;
-            if(numShift<0){
-                numShift+=26;
+            if (numShift < 0) {
+                numShift += 26;
             }
             ans[i] = 'a' + (s[i] - 'a' + numShift) % 26;
         }
