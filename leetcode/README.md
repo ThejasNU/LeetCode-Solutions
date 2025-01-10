@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0859-design-circular-deque) |
+| [0952-word-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1025-minimum-cost-for-tickets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1468-check-if-n-and-its-double-exist) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1304-longest-happy-string) |
