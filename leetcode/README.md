@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1502-construct-k-palindrome-strings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1502-construct-k-palindrome-strings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0920-uncommon-words-from-two-sentences) |
+| [1502-construct-k-palindrome-strings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
