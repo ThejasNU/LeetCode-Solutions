@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2755-extra-characters-in-a-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3309-count-prefix-and-suffix-pairs-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3394-minimum-array-end) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2755-extra-characters-in-a-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3455-minimum-length-of-string-after-operations) |
