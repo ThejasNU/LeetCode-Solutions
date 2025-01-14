@@ -5,7 +5,7 @@ public:
         vector<int> ans(n);
         bitset<51> seen;
         int count = 0;
-        for (int i = 0; i < A.size(); ++i) {
+        for (int i = 0; i < n; ++i) {
             if (seen[A[i]]) {
                 ++count;
             } else {
