@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1876-map-of-highest-peak](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1923-sentence-similarity-iii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1876-map-of-highest-peak](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1402-count-square-submatrices-with-all-ones) |
+| [1876-map-of-highest-peak](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2145-grid-game) |
