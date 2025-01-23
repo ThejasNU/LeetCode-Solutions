@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1497-design-a-stack-with-increment-operation) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2300-construct-string-with-repeat-limit) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2201-valid-arrangement-of-pairs) |
 ## Trie
 |  |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2646-kth-largest-sum-in-a-binary-tree) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1402-count-square-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1972-rotating-the-box) |
@@ -464,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3309-count-prefix-and-suffix-pairs-i) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
