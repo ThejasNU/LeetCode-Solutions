@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0386-lexicographical-numbers) |
+| [0820-find-eventual-safe-states](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0820-find-eventual-safe-states) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -473,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
