@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2201-valid-arrangement-of-pairs) |
 ## Trie
 |  |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2646-kth-largest-sum-in-a-binary-tree) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -480,4 +483,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
