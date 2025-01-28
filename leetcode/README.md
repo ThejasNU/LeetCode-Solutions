@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2755-extra-characters-in-a-string) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2868-continuous-subarrays) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2201-valid-arrangement-of-pairs) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2764-maximum-number-of-fish-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2764-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
