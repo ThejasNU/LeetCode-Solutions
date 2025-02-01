@@ -1,0 +1,2 @@
+                    seen[i][j]=true;
+
