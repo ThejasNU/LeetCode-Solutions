@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
