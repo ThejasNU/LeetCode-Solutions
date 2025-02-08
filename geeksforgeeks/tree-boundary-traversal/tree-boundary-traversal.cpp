@@ -1,0 +1,2 @@
+        collectLeaf(root->right,ans);
+
