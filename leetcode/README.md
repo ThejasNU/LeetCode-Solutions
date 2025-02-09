@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2448-count-number-of-bad-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2494-sum-of-prefix-scores-of-strings) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2586-longest-square-streak-in-an-array) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0670-maximum-swap) |
+| [2448-count-number-of-bad-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3455-minimum-length-of-string-after-operations) |
