@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Stack
 |  |
