@@ -1,0 +1,2 @@
+        st.insert(node->data);
+
