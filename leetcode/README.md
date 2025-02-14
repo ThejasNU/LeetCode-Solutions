@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0731-my-calendar-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0859-design-circular-deque) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2434-design-a-number-container-system) |
 ## Segment Tree
@@ -532,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1558-course-schedule-iv) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
