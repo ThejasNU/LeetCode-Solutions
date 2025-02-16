@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1886-minimum-limit-of-balls-in-a-bag) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
