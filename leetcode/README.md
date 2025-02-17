@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1160-letter-tile-possibilities](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1468-check-if-n-and-its-double-exist) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
+| [1160-letter-tile-possibilities](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1350-remove-sub-folders-from-the-filesystem) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1502-construct-k-palindrome-strings) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2170-count-number-of-maximum-bitwise-or-subsets) |
