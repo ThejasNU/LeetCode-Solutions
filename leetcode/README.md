@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0001-two-sum) |
 | [0179-largest-number](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0729-my-calendar-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0952-word-subsets) |
