@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1502-construct-k-palindrome-strings) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2201-valid-arrangement-of-pairs) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0859-design-circular-deque) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2434-design-a-number-container-system) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1876-map-of-highest-peak) |
@@ -486,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
