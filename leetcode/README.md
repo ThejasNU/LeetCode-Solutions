@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0859-design-circular-deque) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1025-minimum-cost-for-tickets) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1160-letter-tile-possibilities) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -568,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1477-product-of-the-last-k-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
