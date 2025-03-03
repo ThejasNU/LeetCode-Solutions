@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2551-apply-operations-to-an-array) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2692-take-gifts-from-the-richest-pile) |
