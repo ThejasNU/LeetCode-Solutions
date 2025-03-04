@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
