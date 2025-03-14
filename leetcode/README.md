@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1025-minimum-cost-for-tickets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0731-my-calendar-ii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1766-minimum-number-of-removals-to-make-mountain-array) |
