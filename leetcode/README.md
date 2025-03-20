@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3427-special-array-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3189-find-champion-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2764-maximum-number-of-fish-in-a-grid) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
