@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3517-shortest-distance-after-road-addition-queries-i) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3430-count-days-without-meetings) |
 ## Counting
 |  |
 | ------- |
