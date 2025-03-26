@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2179-most-beautiful-item-for-each-query) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1468-check-if-n-and-its-double-exist) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2685-first-completely-painted-row-or-column) |
