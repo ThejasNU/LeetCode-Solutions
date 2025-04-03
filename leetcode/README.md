@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2888-minimum-index-of-a-valid-split) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3291-find-if-array-can-be-sorted) |
