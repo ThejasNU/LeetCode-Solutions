@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0854-making-a-large-island) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1558-course-schedule-iv) |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
