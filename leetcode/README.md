@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2998-count-symmetric-integers) |
 ## Tree
 |  |
 | ------- |
