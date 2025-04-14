@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1755-defuse-the-bomb) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2998-count-symmetric-integers) |
