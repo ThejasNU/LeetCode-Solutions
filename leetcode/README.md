@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2755-extra-characters-in-a-string) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3430-count-days-without-meetings) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2699-count-the-number-of-fair-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3427-special-array-ii) |
 ## Design
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/ThejasNU/LeetCode-Solutions/tree/master/LeetCode/3195-separate-black-and-white-balls) |
